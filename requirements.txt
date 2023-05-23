@@ -1,8 +1,0 @@
-pandas
-Flask
-numpy
-matplotlib
-scikit-learn
-seaborn
-ipykernel
-#-e .
