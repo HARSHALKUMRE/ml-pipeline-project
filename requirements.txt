@@ -3,4 +3,7 @@ Flask
 numpy
 scikit-learn
 seaborn
--e .
+ipykernel
+pyyaml 
+dill
+#-e .
